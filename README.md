@@ -120,7 +120,7 @@ Book Passage Analysis Report
 ## 👨‍💻 Author
 
 Vikash Kumar  
-AI/ML Developer  
+Data Scientist  
 
 LinkedIn: https://www.linkedin.com/in/vikash-kumar-a071a0205/  
 GitHub: https://github.com/Vikash-Kumar-984  
